@@ -1,0 +1,66 @@
+<div class="O" id='preview'>
+	<div class="box">
+		<p><b>&nbsp;<br>合格证&nbsp;<br></b></p>
+		<ul>
+			<li>品名：真丝连衣裙</li>
+			<li>商标：壹型壹觅</li>
+			<li>货号：XK995-1</li>
+			<li>尺码：M</li>
+			<li>颜色：绿色乱花</li>
+			<li>面料：100%桑蚕丝</li>
+			<li>等级：一等品</li>
+			<li>检验员：08（合格）</li>
+			<li>安全技术类别：B类</li>
+			<li>执行标准：FZ/T 81004-2012</li>
+			<li>企业：杭州佐畔服饰有限公司</li>
+			<li>地址：浙江省杭州市拱墅区康贤路43号1幢526室</li>
+			<li>电话：15221422225</li>
+			<li>洗涤说明：见耐久度标签</li>&nbsp;<br>
+			<li><b>&nbsp;&nbsp;&nbsp;&nbsp;建议零售价：￥1676</b></li>
+		</ul>
+	</div><button  class="dy" onclick='preview()'>打印</button>
+</div>
+<div class="O" id='preview'>
+	<div class="box">
+		<p><b>&nbsp;<br>合格证&nbsp;<br></b></p>
+		<ul>
+			<li>品名：真丝连衣裙</li>
+			<li>商标：壹型壹觅</li>
+			<li>货号：XK995-1</li>
+			<li>尺码：L</li>
+			<li>颜色：绿色乱花</li>
+			<li>面料：100%桑蚕丝</li>
+			<li>等级：一等品</li>
+			<li>检验员：08（合格）</li>
+			<li>安全技术类别：B类</li>
+			<li>执行标准：FZ/T 81004-2012</li>
+			<li>企业：杭州佐畔服饰有限公司</li>
+			<li>地址：浙江省杭州市拱墅区康贤路43号1幢526室</li>
+			<li>电话：15221422225</li>
+			<li>洗涤说明：见耐久度标签</li>&nbsp;<br>
+			<li><b>&nbsp;&nbsp;&nbsp;&nbsp;建议零售价：￥1676</b></li>
+		</ul>
+	</div><button  class="dy" onclick='preview()'>打印</button>
+</div>
+<div class="O" id='preview'>
+	<div class="box">
+		<p><b>&nbsp;<br>合格证&nbsp;<br></b></p>
+		<ul>
+			<li>品名：真丝连衣裙</li>
+			<li>商标：壹型壹觅</li>
+			<li>货号：XK995-1</li>
+			<li>尺码：XL</li>
+			<li>颜色：绿色乱花</li>
+			<li>面料：100%桑蚕丝</li>
+			<li>等级：一等品</li>
+			<li>检验员：08（合格）</li>
+			<li>安全技术类别：B类</li>
+			<li>执行标准：FZ/T 81004-2012</li>
+			<li>企业：杭州佐畔服饰有限公司</li>
+			<li>地址：浙江省杭州市拱墅区康贤路43号1幢526室</li>
+			<li>电话：15221422225</li>
+			<li>洗涤说明：见耐久度标签</li>&nbsp;<br>
+			<li><b>&nbsp;&nbsp;&nbsp;&nbsp;建议零售价：￥1676</b></li>
+		</ul>
+	</div><button  class="dy" onclick='preview()'>打印</button>
+</div>
